@@ -1,4 +1,4 @@
-8# Hand_Tracking_Robot_Hand_and_Volume_Control
+Hand_Tracking_Robot_Hand_and_Volume_Control
 This repository comprises two scripts:
 
 1. Hand_Tracking_Robot_Hand (robot_arm.py)
